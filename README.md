@@ -1,3 +1,2 @@
 # GUI-Standard-Calculator
-A standard Desktop GUI Calculator made using Tkinter.
-It is capable of performing functions which a standard calculator can execute.
+In this project we would be using the python library Tkinter to create a GUI Calculator to perform several basic functions which a standard calculator can execute.
