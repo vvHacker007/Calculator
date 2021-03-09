@@ -8,7 +8,7 @@ window = Tk()
 window.title("Calculator")
 
 # Giving the Program an icon
-window.wm_iconbitmap("calculator_icon.ico")
+# window.wm_iconbitmap("calculator_icon.ico")
 
 # Now we create an entry widget
 e = Entry(window, width=65, borderwidth=5, bg="black", fg="white")
