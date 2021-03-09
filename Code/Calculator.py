@@ -161,7 +161,7 @@ button_clear = Button(window, text="Clear", padx=42, pady=40, command=clear, bg=
 button_per = Button(window, text="% ", padx=49, pady=40, command=per, bg="black", fg="white").grid(row=4, column=3, columnspan=1, rowspan=1)
 
 
-# With this the window will run in an infinite loop until it is not closed
+# With this the window will run in an infinite loop until it is not manually closed
 window.mainloop()
 
 
